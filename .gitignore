@@ -1,0 +1,20 @@
+# Joomla system folders
+cache/
+tmp/
+logs/
+installation/
+
+# IDE / OS folders
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Archivos comprimidos o de instalación
+*.zip
+*.tar.gz
+*.rar
+*.bak
+
+# Archivos de base de datos locales
+*.sql
+*.sqlite
