@@ -1,3 +1,5 @@
+![Tienda Génesis](banner_tienda_genesis.png)
+
 # 🧢 Tienda Génesis - Catálogo Urbano de Víveres
 
 **Tienda Génesis** es una tienda de víveres construida con Joomla y diseñada con un estilo moderno inspirado en la cultura Hip Hop 🎤🛒.
